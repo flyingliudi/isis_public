@@ -1,0 +1,7 @@
+v 1.0.0
+d Materials by Di Liu, David Drukker
+d Stata
+d dil@stata.com
+d https://github.com/flyingliudi/isis_public
+
+p isis

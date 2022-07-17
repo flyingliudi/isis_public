@@ -1,0 +1,15 @@
+v 1.0.0
+d 'ISIS': iterative sure independence screening based Neyman orthgonal estimator
+d 
+d Distribution-Date:   20220717
+d License: MIT
+d 
+F isis.ado
+F pocvsw.ado
+F posis.ado
+F posw.ado
+F posw.sthlp
+F poswbic_gmm_logit.ado
+F poswbic_gmm_pois.ado
+F stepbic.ado
+F steptest.ado
