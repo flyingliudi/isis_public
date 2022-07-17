@@ -1,0 +1,84 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Cmmle	isis.ado	/^program Cmmle$/;"	p
+Compute	isis.ado	/^program Compute$/;"	p
+Compute	pocvsw.ado	/^program Compute$/;"	p
+Compute	posis.ado	/^program Compute$/;"	p
+Compute	posw.ado	/^program Compute$/;"	p
+Compute	stepbic.ado	/^program	Compute, rclass$/;"	p
+Compute	steptest.ado	/^program	Compute, rclass$/;"	p
+ComputeChi2	pocvsw.ado	/^program ComputeChi2, eclass$/;"	p
+ComputeChi2	posis.ado	/^program ComputeChi2, eclass$/;"	p
+ComputeChi2	posw.ado	/^program ComputeChi2, eclass$/;"	p
+ComputeGLM	pocvsw.ado	/^program ComputeGLM, eclass$/;"	p
+ComputeGLM	posis.ado	/^program ComputeGLM, eclass$/;"	p
+ComputeGLM	posw.ado	/^program ComputeGLM, eclass$/;"	p
+ComputeLinear	pocvsw.ado	/^program ComputeLinear, eclass$/;"	p
+ComputeLinear	posis.ado	/^program ComputeLinear, eclass$/;"	p
+ComputeLinear	posw.ado	/^program ComputeLinear, eclass$/;"	p
+Display	isis.ado	/^program Display$/;"	p
+Display	pocvsw.ado	/^program Display$/;"	p
+Display	posis.ado	/^program Display$/;"	p
+Display	posw.ado	/^program Display$/;"	p
+Display	stepbic.ado	/^program Display$/;"	p
+Display	steptest.ado	/^program Display$/;"	p
+DisplayLog	stepbic.ado	/^program DisplayLog$/;"	p
+DisplayLog	steptest.ado	/^program DisplayLog$/;"	p
+DoLoop	isis.ado	/^program	DoLoop, rclass$/;"	p
+Estimate	isis.ado	/^program Estimate$/;"	p
+Estimate	pocvsw.ado	/^program Estimate, eclass$/;"	p
+Estimate	posis.ado	/^program Estimate, eclass$/;"	p
+Estimate	posw.ado	/^program Estimate, eclass$/;"	p
+FinalModel	stepbic.ado	/^program FinalModel$/;"	p
+FinalModel	steptest.ado	/^program FinalModel$/;"	p
+GetBic	stepbic.ado	/^program GetBic, sclass$/;"	p
+GetCval	steptest.ado	/^program GetCval, sclass$/;"	p
+GetEstcmd	pocvsw.ado	/^program GetEstcmd, sclass$/;"	p
+GetEstcmd	posis.ado	/^program GetEstcmd, sclass$/;"	p
+GetEstcmd	posw.ado	/^program GetEstcmd, sclass$/;"	p
+GetFrom	stepbic.ado	/^program GetFrom, sclass$/;"	p
+GetFrom	steptest.ado	/^program GetFrom, sclass$/;"	p
+GetNext	stepbic.ado	/^program GetNext, rclass$/;"	p
+GetNext	steptest.ado	/^program GetNext, rclass$/;"	p
+GetSwcmd	pocvsw.ado	/^program GetSwcmd, sclass$/;"	p
+GetSwcmd	posw.ado	/^program GetSwcmd, sclass$/;"	p
+Head	pocvsw.ado	/^program Head$/;"	p
+Head	posis.ado	/^program Head$/;"	p
+Head	posw.ado	/^program Head$/;"	p
+IfStop	isis.ado	/^program	IfStop, sclass$/;"	p
+InstGLM	pocvsw.ado	/^program InstGLM$/;"	p
+InstGLM	posis.ado	/^program InstGLM$/;"	p
+InstGLM	posw.ado	/^program InstGLM$/;"	p
+Normalize	isis.ado	/^program Normalize$/;"	p
+ParseMaxiter	isis.ado	/^program ParseMaxiter, sclass$/;"	p
+ParseMethod	isis.ado	/^program ParseMethod, sclass$/;"	p
+ParseModel	isis.ado	/^program ParseModel, sclass$/;"	p
+ParseSyntax	isis.ado	/^program ParseSyntax, rclass$/;"	p
+ParseSyntax	pocvsw.ado	/^program ParseSyntax, rclass$/;"	p
+ParseSyntax	posis.ado	/^program ParseSyntax, rclass$/;"	p
+ParseSyntax	posw.ado	/^program ParseSyntax, rclass$/;"	p
+ParseSyntax	stepbic.ado	/^program ParseSyntax, rclass$/;"	p
+ParseSyntax	steptest.ado	/^program ParseSyntax, rclass$/;"	p
+ParseVars	isis.ado	/^program ParseVars, sclass$/;"	p
+PostResult	isis.ado	/^program PostResult, eclass		$/;"	p
+PostResult	pocvsw.ado	/^program PostResult, eclass$/;"	p
+PostResult	posis.ado	/^program PostResult, eclass$/;"	p
+PostResult	posw.ado	/^program PostResult, eclass$/;"	p
+SelML	isis.ado	/^program	SelML, sclass$/;"	p
+SetD	isis.ado	/^program SetD, sclass$/;"	p
+SetM0	isis.ado	/^program SetM0, sclass$/;"	p
+di_log	pocvsw.ado	/^program di_log$/;"	p
+di_log	posis.ado	/^program di_log$/;"	p
+di_log	posw.ado	/^program di_log$/;"	p
+isis	isis.ado	/^program isis$/;"	p
+pocvsw	pocvsw.ado	/^program pocvsw$/;"	p
+posis	posis.ado	/^program posis$/;"	p
+posw	posw.ado	/^program posw$/;"	p
+poswbic_gmm_logit	poswbic_gmm_logit.ado	/^program poswbic_gmm_logit$/;"	p
+poswbic_gmm_pois	poswbic_gmm_pois.ado	/^program poswbic_gmm_pois$/;"	p
+stepbic	stepbic.ado	/^program stepbic$/;"	p
+steptest	steptest.ado	/^program steptest$/;"	p
